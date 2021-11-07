@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ca2</string>
+    <string name="title">Microsoft Teams</string>
+    <string name="cont1">Get started with your work,school or personal microsoft account</string>
+    <string name="hint">Enter Email, phone or Skype</string>
+    <string name="btn">Sign</string>
+    <string name="cont2">Get help with signing in</string>
+    <string name="meetbtn">Join a meeting</string>
+    <string name="sig">Sign up for free</string>
+    <string name="dest">logo image</string>
+    <string name="hin">Email Address</string>
+</resources>
